@@ -12,7 +12,7 @@ standards, and therefore doesn't support the full SEC 1 algorithm set.
 STATUS:
 
 ecies should be ready for use. The ASN.1 support is only complete so
-far as to supported the listed algorithms before.
+far as to support the listed algorithms previously listed.
 
 
 CAVEATS
